@@ -1,0 +1,763 @@
+body{
+	margin: 0;
+	font-family: 'ABeeZee', sans-serif;
+	
+}
+.fon{
+	width: 100%;
+	height: 778px;
+	background: silver; 
+	position: relative;
+	
+}
+.fon img{
+	width: 100%;
+	height:100%;
+}
+
+.box1{
+	width: 80%;
+	height: 50px;
+	position: absolute;
+	top: 60px;
+	left: 0px;	
+
+}
+.box1 p{
+	float: right;
+
+}
+.box2{
+	width: 100%;
+	height:70px;
+	position: absolute;
+	top: 250px;
+}
+.box2 p{
+	font-size: 40px;
+	color:black;
+	text-align: center;
+
+}
+.box3{
+	width: 100%;
+	height: 40px;
+	position: absolute;
+	top: 340px;
+}
+.box3 p{
+	font-size: 18px;
+	color:rgb(201, 201, 197);
+	text-align: center;
+
+}
+
+.box4{
+	width: 100%;	
+	text-align: center;
+	margin-top: 450px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.btn:hover {
+    background: rgba(61, 201, 179, 0.6);
+    color: #fff;
+
+}
+.btn{
+	width: 250px;
+	height:70px;
+	border-radius: 10px;
+	background: rgba(61, 201, 179, 1);
+
+}
+.fon2{
+	width: 100%;
+	height: 400px;
+	background:#f3f5f8;;
+	margin-top: -15px;
+	position: relative;
+}
+.text1{
+	width: 100%;
+	height: 30px;
+	position: relative;
+	top: 100px;
+}
+.text1 p{
+ color:#353535;
+ text-align: center;
+}
+.text2{
+	width: 100%;
+	height: 30px;
+	position: relative;
+	top: 110px;
+	left: 0px;
+	text-align: center;
+}
+.text3{
+	width: 750px;
+	margin: 150px auto;
+}
+a:link{
+	color: black;
+	text-decoration: none;
+}
+.fon3{
+	width: 100%;
+	position: relative;
+}
+.yazi{
+	width: 100%;
+	position: relative;
+	left: 0px;
+	top: 80px;
+	text-align: center;
+}
+.yazi2{
+	width: 100%;
+	position: relative;
+	left: 0px;
+	top: 85px;
+	text-align: center;
+}
+.fon4{
+	width: 100%;
+	height: 700px;
+	
+}
+.boxes{
+	width: calc(33.33% - 100px);
+	display: inline-block;
+	position: relative;
+	top: 160px;
+	left: 125px;
+	float: left;
+	margin: 0px 10px;
+}
+.qutular{
+	
+	height: 200px;
+	background:white;
+
+}
+.icons{
+
+	width: 175px;
+	height: 175px;
+	border-radius: 50%;
+	background:rgba(61, 201, 179, 1);
+	position: relative;
+	left: 0px;
+	top: 20px;
+	margin: 20px auto; 
+
+}
+.icons i{
+	padding: 55px;
+}
+.basliq{
+	width: 100%;
+	height: 100px;
+}	
+ h2{
+	font-size: 16px;
+    color: #353535;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.basliq h2::after{
+	 content: " ";
+    border: solid 2px #3dc9b3;
+    display: block;
+    width: 35px;
+    margin: 25px auto;
+}
+.yazilar{
+	width: 100%;
+	height: 100%;
+	margin: -17px 25px;
+}
+.yazilar>p{
+	color: #8c9398;
+    word-spacing: 1px;
+    line-height: 25px;
+    font-size: 14px;
+}
+.fon5{
+	width: 100%;
+	background: #f3f5f8;
+	
+}
+.iphone{
+	width: 50%;
+	height: 650px;
+	display: inline-block;
+	overflow: hidden;
+}
+.iphone img{
+	width: 130%;
+	position: relative;
+	left: 200px;
+
+}
+.qelib{
+	width:50%;
+	height: 450px;
+	display: inline-block;
+	position: absolute;
+	overflow: hidden;
+	
+		
+}
+.slider{
+	width: 1500px;
+	height: 450px;
+	position: relative;
+
+}
+.metn{
+	width: 675px;
+	height: 450px;
+	background: white;
+	display: inline-block;
+	position: absolute;
+	left: 0px;
+	transition: all .4s ease;
+	
+}
+.metn2{
+	width: 674px;
+	height: 450px;
+	background: white;
+	display: inline-block;
+	position: absolute;
+	left: 675px;	
+	transition: all .4s ease;
+	overflow: hidden;
+
+}
+.sag1{
+	position: relative;
+	top: 50px;
+	text-align: center;
+}
+.sag2{
+	position: relative;
+	top: 50px;
+	text-align: center;
+}
+.sag3{
+	position: relative;
+	top: 50px;
+	width: 65%;
+	position: relative;
+	left: 0px;
+	margin: 0px auto; 
+	text-align: center;
+}
+.setir2{
+	width:50%;
+	height: 202px;
+	background: white;
+	display: inline-block;
+	position: absolute;	
+	margin-top: 450px;
+}
+.buton{
+	width: 100%;
+	text-align: center;
+}
+.btns{
+	width: 15px;	
+	height: 15px;	
+	border-radius: 100%;
+	position: relative;
+	background: white;
+	border: 1px solid black;
+
+}
+.fon6{
+	width: 100%;
+	height: 320px;
+	overflow: hidden;
+    background-image: url("cover.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.fon6 p{
+	color:white;
+	font-size: 50px;
+	text-align: center;
+	padding: 20px 0px 0px 0px;
+}
+.design{
+	width: 100%;
+	height: 40px;
+	text-align: center;
+}
+.design a{
+	color: white;
+	font-size: 35px;
+}
+.cdn{
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+.fa-chevron-down{
+	width: 40px;
+    height: 40px;
+    text-align: center;
+    border-radius: 100%;
+    background: rgba(61, 201, 179, 0.8);
+    color: #fff;
+    font-size: 16px;
+    padding-top: 10px;
+    box-sizing: border-box;
+
+}
+.fon7{
+	width: 100%;
+	background: silver;
+	position: absolute;
+	overflow: hidden;
+	
+
+}
+.qelib2{
+	width: 5000px;
+	height: 500px;
+	position: relative;
+
+}
+.qb1{
+	width: 1400px;
+	height: 560px;
+	background: white;
+	display: inline-block;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	transition: all .7s ease;
+
+}
+.qb2{
+	width: 1400px;
+	height: 560px;
+	background: white;
+	display: inline-block;
+	position: absolute;
+	top: 0px;
+	left: 1400px;
+	transition: all .7s ease;
+}
+.pages{
+	width: 370px;
+	height: 450px;
+	background: white;
+	display: inline-block;
+	position: relative;
+	top: 50px;
+	left: 90px;
+	margin-left: 10px;
+}
+
+.photos{
+	width: 100%;
+	height: 220px;
+	background: white;
+}
+.photos img{
+	width: 100%;
+	height: 100%;
+
+}
+.esas{
+	width: 100%;
+	height: 70px;
+	position: relative;
+	top: 0px;
+
+}
+.esas h2{
+	padding: 0px 0px 0px 120px;
+	overflow: hidden;
+}
+.esas h2::after {
+    content: " ";
+    border: solid 2px #3dc9b3;
+    display: block;
+    width: 35px;
+    margin: 25px 55px;
+}
+.lorem{
+	width: 100%;
+	position: relative;
+	top: 0px;
+}
+.lorem p{
+	padding-left: 15px; 
+	color: #8c9398;
+    word-spacing: 1px;
+    line-height: 25px;
+    font-size: 14px;
+}
+.bt{
+	width: 100%;
+	text-align: center;
+
+	position: relative;
+	top: 475px;
+	
+
+}
+.bt1{
+	width: 15px;
+	height: 15px;
+	background: black;
+	border-radius: 100%;
+	border: 1px solid black;
+
+}
+.bt2{
+	width: 15px;
+	height: 15px;
+	background: white;
+	border: 1px solid black;
+	border-radius: 100%;
+}
+.fon8{
+	width: 100%;
+	height: 150px;
+	background: #242830;
+	top: 590px;
+	position: relative;
+	text-align: center;
+}
+.btdiv{
+	width: 100%;
+	height: 70px;
+}
+.butons{
+	width: 280px;
+	height: 70px;
+	position: relative;
+	top: 42px;
+	background: #242830;
+
+}
+.butons p{
+	color: white;
+	font-size: 16px;
+}
+.butons:hover, .p:focus {
+    color: #3dc9b3;
+    border: solid 1px #3dc9b3;
+}
+
+.fon9{
+	width: 100%;
+	top: 590px;
+	position: relative;
+	margin-top: 0px;
+	overflow: hidden;
+}
+.clientwidth{
+	width: 2720px;
+}
+.qbl1{
+	width: 1347px;
+	display: inline-block;
+	position: relative;
+	left: 0px;
+	transition: all 0.7s ease;
+
+}
+.qbl2{
+	width: 1347px;
+	display: inline-block;
+	position: relative;
+	left: 0px;
+	transition: all 0.7s ease;
+}
+.bslq{
+	width: 100%;
+	position: relative;
+	top:70px;
+	text-align: center;
+}
+.bslq p{
+	font-size: 17px;
+
+}
+.ftss{
+    width: 100%;
+    height: 30px;
+    position: relative;
+    top: 60px;
+    left: 0px;
+    text-align: center;
+}
+
+
+.bxss{
+	width: 370px;
+	display: inline-block;
+	position: relative;
+	top: 100px;
+	left: 99px;
+	background: white;
+	margin-left: 10px;
+}
+
+.skl{
+	width: 100%;
+	height: 250px;
+	background: white;
+	text-align: center;
+}
+
+.name{
+	width: 100%;
+	height: 40px;
+	text-align: center;
+	background: white;
+}
+.name h2{
+	font-size: 15px;
+    color: #353535;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+.name h2::after {
+    content: " ";
+    border: solid 2px #3dc9b3;
+    display: block;
+    width: 35px;
+    position: relative;
+margin: 10px auto;
+}
+.lorem{
+	width: 100%;
+	height: 200px;
+}
+
+.batn{
+	width: 100%;
+	height: 50px;
+	top: 635px;
+	position: relative;
+	text-align: center;
+}
+.batn1{
+	width: 15px;
+	height: 15px;
+	background: black;
+	border: 1px solid black;
+	border-radius: 50%;
+}
+
+.batn2{
+	width: 15px;
+	height: 15px;
+	background: white;
+	border: 1px solid black;
+	border-radius: 50%;
+}
+.fon10{
+	width: 100%;
+	height: 350px;
+	top: 630px;
+	position:relative;
+	overflow: hidden;
+    background-image: url("keyboard.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.ucak{
+	width: 30%;
+	height: 20px;
+	text-align: center;
+	margin: 100px auto;
+}
+.ucak i{
+	color: white;
+	text-align: center;
+	position: relative;
+
+}
+.ucak h2{
+	text-align: center;
+	font-size: 18px;
+	color: white;
+	font-family:  'ABeeZee', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+}
+.axtar{
+	width: 100%;
+	position: relative;
+	text-align: center;
+}
+ input[type=text] {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: solid 1px #fff;
+    padding: 20px;
+    width: 20%;
+    color: #fff;
+}
+.inpu{
+	height: 60px;
+    background:rgba(61, 201, 179, 0.5);;
+    width: 8%;
+    color: #fff;
+    font-size: 20px;
+}
+.inpu:hover{
+	background: rgba(61, 201, 179, 0.9 );
+}
+.duz{
+	width: 100%;
+	position:relative;
+	top: 608px;
+	background: none;
+}
+.duz i{
+	color: white;
+	border-radius: 100%;
+	background:rgba(61, 201, 179, 0.6);
+	left: 654px;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	position: absolute;
+	font-size: 17px;
+	text-align: center;
+}
+.fon11{
+	width: 100%;
+	height: 550px;
+	margin-top: 600px;
+	background:#f3f5f8;
+
+}
+.yazi3{
+	width: 100%;
+	position: relative;
+	top: 100px;
+	text-align: center;
+	margin-top: -10px;
+}
+.elaqe{
+	width: calc(33.33% - 100px);
+	height: 225px;
+	background: white;
+	display: inline-block;
+	margin-left: 10px;
+	position: relative;
+	left: 130px;
+	margin-top: 150px;
+}
+.sc1{
+	width: 100%;
+	margin-top: 35px;
+	text-align: center;
+}
+ .spn{
+    display: block;
+    color: #3dc9b3;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 14px;
+    margin-top: 15px;
+    text-align: center;
+}
+ .elaqe>h2::after {
+    content: " ";
+    border: solid 2px #3dc9b3;
+    display: block;
+    width: 35px;
+    margin: 25px auto;
+}
+.elaqe>p{
+    color: #8c9398;
+    word-spacing: 1px;
+    line-height: 25px;
+    font-size: 14px;
+    text-align: center;
+}
+.elaqe>p>a{
+    color: #8c9398;
+    word-spacing: 1px;
+    line-height: 25px;
+    font-size: 14px;
+    text-align: center;
+}
+.elaqe2{
+	width: 100%;
+	text-align: center;
+}
+.elaqe2 ul li{
+		width: 40px;
+	height: 40px;
+	display: inline-block;
+	background: #242830;
+    color: #fff;
+	line-height: 40px;
+	position: relative;
+	top: 40px;
+	border-radius: 50%;
+	font-size: 17px;
+	text-align: center;
+}
+.footer{
+    background-color: #242830;
+	top: 50px;
+    width: 100%;
+    height: 100px;
+    position: relative;
+
+}
+.soll{
+	width: 50%;
+	top: 30px;
+	position: relative;
+	float: left;
+	display: inline-block;
+}
+.soll ul li{
+
+	list-style: none;
+	display: inline-block;
+	left: 100px;
+	position: relative;
+
+}
+.sagg{
+	width: 50%;
+	top: 30px;
+	float: right;
+	display: inline-block;
+	position: relative;
+}
+.sagg ul li{
+	
+	list-style: none;
+	display: inline-block;
+	position: relative;
+	left: 50px;
+}
+.pro{
+	font-size: 16px;
+	border-right:3px solid white;
+}
+.soll b:hover{
+	background: green;
+}
